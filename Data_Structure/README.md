@@ -3,7 +3,7 @@
 [ ] - Associative Array
 [ ] - Predecessor Problem
 [x] - Unionfind
-[ ] - Static Range Sum
+[x] - Static Range Sum
 [ ] - Static RMQ
 [ ] - Point Add Range Sum
 [ ] - Point Set Range Composite
