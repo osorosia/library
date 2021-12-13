@@ -1,0 +1,31 @@
+# Data Structure
+
+[ ] - Associative Array
+[ ] - Predecessor Problem
+[x] - Unionfind
+[ ] - Static Range Sum
+[ ] - Static RMQ
+[ ] - Point Add Range Sum
+[ ] - Point Set Range Composite
+[ ] - Range Affine Range Sum
+[ ] - Range Chmin Chmax Add Range Sum
+[ ] - Range Kth Smallest
+[ ] - Vertex Add Path Sum
+[ ] - Vertex Set Path Composite
+[ ] - Vertex Add Subtree Sum
+[ ] - Dynamic Sequence Range Affine Range Sum
+[ ] - Dynamic Tree Vertex Add Path Sum
+[ ] - Dynamic Tree Vertex Set Path Composite
+[ ] - Dynamic Tree Vertex Add Subtree Sum
+[ ] - Dynamic Tree Subtree Add Subtree Sum
+[ ] - Dynamic Graph Vertex Add Component Sum
+[ ] - Set Xor-Min
+[ ] - Line Add Get Min
+[ ] - Segment Add Get Min
+[ ] - Queue Operate All Composite
+[ ] - Static Range Frequency
+[ ] - Static Range Inversions Query
+[ ] - Rectangle Sum
+[ ] - Point Add Rectangle Sum
+[ ] - Persistent Queue
+[ ] - Persistent UnionFind
