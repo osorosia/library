@@ -1,6 +1,6 @@
 # Data Structure
 
-- [ ] Associative Array
+- [x] Associative Array
 - [ ] Predecessor Problem
 - [x] Unionfind
 - [x] Static Range Sum
