@@ -4,7 +4,7 @@
 - [x] Predecessor Problem
 - [x] Unionfind
 - [x] Static Range Sum
-- [ ] Static RMQ
+- [x] Static RMQ
 - [ ] Point Add Range Sum
 - [ ] Point Set Range Composite
 - [ ] Range Affine Range Sum
