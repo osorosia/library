@@ -1,3 +1,3 @@
 # library
-↓のために作成したもの。
+this is a library for 'Library Checker'.  
 https://judge.yosupo.jp/
