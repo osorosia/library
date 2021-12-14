@@ -1,7 +1,7 @@
 # Data Structure
 
 - [x] Associative Array
-- [ ] Predecessor Problem
+- [x] Predecessor Problem
 - [x] Unionfind
 - [x] Static Range Sum
 - [ ] Static RMQ
